@@ -17,4 +17,5 @@ Try out different monitoring tools in this repo. Like Prometheus.
 
 # Reference
 
-1. (Continuous Monitoring: The Role of DevOps and APM)[!https://devops.com/continuous-monitoring-role-devops-and-apm/]
+
+1. [I'm an inline-style link](https://devops.com/continuous-monitoring-role-devops-and-apm/)
